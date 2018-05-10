@@ -1,0 +1,31 @@
+#number{
+background-color: black;
+    color: white;
+    
+}
+
+#random{
+    background-color: lightpink;
+    
+}
+
+#add{
+    background-color: darkgrey;
+    color: white;
+}
+
+.newDivs{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.newImgs{
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}
